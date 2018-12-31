@@ -1,4 +1,4 @@
-## 前后端均适用的网络知识点大全 {#activity-name}
+## 前后端均适用的网络知识点大全  {#activity-name}
 
 ### http 响应常见状态码
 
