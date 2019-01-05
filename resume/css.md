@@ -29,7 +29,7 @@ description: CSS
 
       区别：
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../gitbook/assets/image%20%281%29.png)
 
 1. 块级元素会独占一行（无法与其他元素显示在同一行内），而内联元素会在一行内显示
 2. 块级元素可以设置widht、height属性，而内联元素设置无效。
@@ -72,9 +72,9 @@ description: CSS
 
 效果：
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../gitbook/assets/image%20%284%29.png)
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../gitbook/assets/image%20%283%29.png)
 
 由图可知：  内联元素之间**不会默认以空格进行分割**，当**代码中有空格**间隔开那么，内联元素会有一个空格间隔。
 
